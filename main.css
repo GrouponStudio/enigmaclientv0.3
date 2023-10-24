@@ -471,7 +471,7 @@ h6,
 
 /* primary buttons */
 .primary-btn {
-  background: #010e44;
+  background: #292929;
   color: #fff;
 }
 .primary-btn:hover {
@@ -1445,7 +1445,7 @@ h6,
 .darkTheme .icon-card,
 .darkTheme .card-style-5,
 .darkTheme .card-style-2 {
-  background: #1e2a4a;
+  background: #393b3f;
   border-color: #2f3546;
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
 }
@@ -3231,7 +3231,7 @@ h6,
   color: rgba(255, 255, 255, 0.6);
 }
 .darkTheme .header .header-right .profile-info .info h6 {
-  color: #010e44;
+  color: #c3c4c9;
 }
 .darkTheme .header .header-right .profile-info .info .image {
   border-color: #2f3546;
@@ -5991,7 +5991,7 @@ h6,
 
 /* ====== Theme Change CSS ====== */
 .darkTheme .sidebar-nav-wrapper {
-  background: #101b39;
+  background: #111214;
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
 }
 .darkTheme .sidebar-nav-wrapper .sidebar-nav ul .nav-item.nav-item-has-children > a {
@@ -6121,7 +6121,7 @@ h6,
 
 /* ========== Theme Change ==========  */
 .darkTheme {
-  background: #010e44;
+  background: #0a0a0f;
 }
 .darkTheme .option-box {
   background: #262d3f;
@@ -6133,7 +6133,7 @@ h6,
   color: #4a6cf7;
 }
 .darkTheme .card-style {
-  background: #1b2a4d;
+  background: #1f2127;
   border-color: #2f3546;
 }
 .darkTheme .card-style .title button {
